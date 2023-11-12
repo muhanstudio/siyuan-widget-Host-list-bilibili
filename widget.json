@@ -1,0 +1,30 @@
+{
+  "name": "Host-list-bilibili",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Host-list-bilibili",
+  "version": "0.0.2",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Host-list-bilibili",
+    "zh_CN": "哔哩哔哩热榜"
+  },
+  "description": {
+    "default": "A beautiful Elliptical clock.",
+    "zh_CN": "实时显示哔哩哔哩热榜。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "热榜", "bilibili" , "哔哩哔哩", "Host list"
+  ]
+}
